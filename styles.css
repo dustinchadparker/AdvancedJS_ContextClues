@@ -1,0 +1,22 @@
+h3 {
+  color: white;
+  padding: 0;
+  margin: 0;
+  border-style: outset;
+  border-color: white;
+  border-right-color: black;
+  width: 200px;
+}
+
+body {
+  background-image: linear-gradient(
+    to right,
+    red,
+    orange,
+    yellow,
+    green,
+    blue,
+    indigo,
+    violet
+  );
+}
